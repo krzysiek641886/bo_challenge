@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 extern "C" {
-#include "my_code.h"
+#include "../src/bo_challenge_code.h"
 }
 
 // Example test case

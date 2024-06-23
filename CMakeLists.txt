@@ -5,7 +5,7 @@ project(MyProject C CXX)
 enable_testing()
 
 # Add source files
-add_library(my_code src/my_code.c)
+add_library(bo_challenge src/bo_challenge_code.c)
 
 # Add Google Test
 add_subdirectory(googletest)
